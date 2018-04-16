@@ -16,3 +16,6 @@ is being tested that whether it has been sucessfully trained or not.
 
  For Downloading Datasets
 -https://www.kaggle.com/c/dogs-vs-cats
+
+
+The code for this project has been referred ffrom UDEMY's convolution neural network course.
