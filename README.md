@@ -1,4 +1,4 @@
-# Image_recognisation
+# Image_recognition
 CNN code to image recognisation
 This project consists of a dataset of images of cats and dogs.Here the machine is being trained to recognise 
 any given picture of a cat or a dog by the user.Here there are two processes going on , namely "testing and training" , for 
